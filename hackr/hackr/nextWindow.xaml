@@ -1,0 +1,27 @@
+﻿<Window x:Class="hackr.nextWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hackr"
+        mc:Ignorable="d"
+        Title="nextWindow" Height="450" Width="800">
+    <Grid  Background="#FCD2CF">
+        <Label Content="       Need teammates for your hackathon? Use hackr, a simple team-finding solution!"
+               Height="50" Width="800"
+               Margin="0,0,0,350"
+               VerticalContentAlignment="Center"
+               Background="#800000"
+               Foreground="GhostWhite"
+               FontSize="18"
+               FontWeight="ExtraBold"
+               ></Label>
+        <Button x:Name="start" Content="begin" Margin="322,330,321.6,40" Height="50" Width="150" Foreground="GhostWhite" Background="#800000"
+                FontSize="25"
+                FontFamily="Tunga"
+                FontWeight="UltraBold"></Button>
+        <Image Source="images/logo1.png" Margin="212,95,212.6,130"></Image>
+        <Image Source="images/mlh-logo.png" Margin="638,373,-27.4,4"></Image>
+        <Image Source="images/howdyhack.png" Margin="579,366,117.6,2"></Image>
+    </Grid>
+</Window>
