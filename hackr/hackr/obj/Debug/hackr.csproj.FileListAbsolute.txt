@@ -1,0 +1,15 @@
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\bin\Debug\hackr.exe.config
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\bin\Debug\hackr.exe
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\bin\Debug\hackr.pdb
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\obj\Debug\hackr.csprojAssemblyReference.cache
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\obj\Debug\MainWindow.g.cs
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\obj\Debug\App.g.cs
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\obj\Debug\hackr_MarkupCompile.cache
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\obj\Debug\hackr_MarkupCompile.lref
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\obj\Debug\MainWindow.baml
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\obj\Debug\hackr.g.resources
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\obj\Debug\hackr.Properties.Resources.resources
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\obj\Debug\hackr.csproj.GenerateResource.cache
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\obj\Debug\hackr.csproj.CoreCompileInputs.cache
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\obj\Debug\hackr.exe
+C:\Users\anasi\Documents\Hackathons\Howdyhack\hackr\hackr\obj\Debug\hackr.pdb
